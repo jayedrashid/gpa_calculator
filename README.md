@@ -1,2 +1,2 @@
-# generate_gpa
-GPA Generator
+# GPA Calculator
+GPA Calculator generates gpa of different courses.
